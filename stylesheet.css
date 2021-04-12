@@ -8,6 +8,11 @@ p{
 }
 
 
+.aDialogue{
+	color: #8d79a8;
+	font-style: oblique;
+}
+
 table{
   margin: auto;
   padding: 10px;
