@@ -1,0 +1,16 @@
+body{
+	background-color: #ffffe6;
+}
+
+p{
+	text-align: center;
+	font-family: Lucida Handwriting;
+}
+
+.choice{
+	text-decoration: underline;
+}
+
+.resetButton{
+	text-transform: capitalise;
+}
