@@ -7,10 +7,30 @@ p{
 	font-family: Lucida Handwriting;
 }
 
-.choice{
-	text-decoration: underline;
+
+table{
+  margin: auto;
+  padding: 10px;
 }
 
-.resetButton{
-	text-transform: capitalise;
+.choice{
+	text-align: center;
+	text-decoration: underline;
+	font-family: Lucida Handwriting;
+}
+
+.choice:hover{
+	color: red;
+	font-weight: bold;
+}
+
+#resetButton{
+	text-align: center;
+	font-family: Lucida Handwriting;
+	font-size: 20px;
+}
+
+#resetButton:hover{
+	color:blue;
+	font-weight:bold;
 }
