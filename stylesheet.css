@@ -13,6 +13,11 @@ p{
 	font-style: oblique;
 }
 
+.catDialogue{
+	font-family: Brush Script MT;
+	font-size: 30px
+}
+
 table{
   margin: auto;
   padding: 10px;
