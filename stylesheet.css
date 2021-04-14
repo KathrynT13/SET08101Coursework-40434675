@@ -19,6 +19,11 @@ img{
 	font-style: oblique;
 }
 
+#jumpscare{
+	font-size: 50px;
+	text-decoration: underline;
+}
+
 .catDialogue{
 	font-family: Brush Script MT;
 	font-size: 30px
