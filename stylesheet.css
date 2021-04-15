@@ -2,7 +2,8 @@ body{
 	background-color: #cbcfd1;
 }
 
-//Main game CSS//
+//*Main game CSS*//
+
 p{
 	text-align: center;
 	font-family: Lucida Handwriting;
@@ -10,14 +11,22 @@ p{
 
 img{
 	display: block;
+	border: solid;
 	margin-left: auto;
 	margin-right: auto;
 	width: 25%;
 }
 
 .aDialogue{
+	text-align: center;
 	color: #4a3c5d;
-	font-style: oblique;
+	font-family: Lucida Handwriting;
+}
+
+.description{
+	text-align: center;
+	font-family: Serif;
+	font-size: 20px;
 }
 
 #jumpscare{
@@ -51,9 +60,13 @@ td{
 }
 
 #resetButton{
+	color: red;
 	text-align: center;
 	font-family: Lucida Handwriting;
 	font-size: 20px;
+	border-style: solid;
+	padding: 10px;
+	background-color; gray;
 }
 
 #resetButton:hover{
@@ -61,7 +74,7 @@ td{
 	font-weight:bold;
 }
 
-//title screen CSS//
+/*title screen CSS*//
 
 #titleScreenTable{
 	margin: auto;
