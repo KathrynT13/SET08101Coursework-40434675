@@ -92,7 +92,8 @@ td{
 
 #titleArt{
 	display: block;
-	width: 50%
+	border-style: double;
+	width: 60%
 }
 
 .titleButtons{
