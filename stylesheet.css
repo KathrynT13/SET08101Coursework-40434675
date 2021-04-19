@@ -68,6 +68,17 @@ td{
 	font-weight: bold;
 }
 
+.infoText{
+	text-decoration: none;
+	font-style: italic;
+	color: #6699ff;
+}
+
+.infoText:hover{
+	font-weight: bold;
+	color: #ff99cc;
+}
+
 #resetButton{
 	color: red;
 	text-align: center;
